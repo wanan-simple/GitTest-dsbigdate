@@ -1,4 +1,6 @@
 hello，git
 我学会提交了
 hot-fix test
-github
+GitHub
+修改后再上传到github
+github再次修改
